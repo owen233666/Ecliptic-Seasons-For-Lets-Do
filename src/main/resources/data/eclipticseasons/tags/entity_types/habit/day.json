@@ -1,0 +1,56 @@
+{
+  "values": [
+    {
+      "id": "wildernature:deer",
+      "required": false
+    },
+    {
+      "id": "wildernature:raccoon",
+      "required": false
+    },
+    {
+      "id": "wildernature:minisheep",
+      "required": false
+    },
+    {
+      "id": "wildernature:pelican",
+      "required": false
+    },
+    {
+      "id": "wildernature:bison",
+      "required": false
+    },
+    {
+      "id": "wildernature:turkey",
+      "required": false
+    },
+    {
+      "id": "wildernature:dog",
+      "required": false
+    },
+    {
+      "id": "wildernature:flamingo",
+      "required": false
+    },
+    {
+      "id": "wildernature:penguin",
+      "required": false
+    },
+    {
+      "id": "wildernature:cassowary",
+      "required": false
+    },
+    {
+      "id": "meadow:wooly_cow",
+      "required": false
+    },
+    {
+      "id": "meadow:wooly_sheep",
+      "required": false
+    },
+    {
+      "id": "meadow:water_buffalo",
+      "required": false
+    }
+  ]
+}

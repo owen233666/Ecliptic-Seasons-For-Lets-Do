@@ -1,0 +1,32 @@
+{
+	"values": [
+		{
+			"id": "farm_and_charm:strawberry_crop",
+			"required": false
+		},
+		{
+			"id": "farm_and_charm:lettuce_crop",
+			"required": false
+		},
+		{
+			"id": "farm_and_charm:oat_crop",
+			"required": false
+		},
+		{
+			"id": "vinery:jungle_grape_bush_red",
+			"required": false
+		},
+		{
+			"id": "vinery:jungle_grape_bush_white",
+			"required": false
+		},
+		{
+			"id": "brewery:hops_crop",
+			"required": false
+		},
+		{
+			"id": "herbalbrews:coffee_plant",
+			"required": false
+		}
+	]
+}

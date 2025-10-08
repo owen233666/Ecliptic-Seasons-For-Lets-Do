@@ -1,0 +1,16 @@
+{
+	"values": [
+		{
+			"id": "vinery:dark_cherry_leaves",
+			"required": false
+		},
+		{
+			"id": "nethervinery:obsidian_stem",
+			"required": false
+		},
+		{
+			"id": "beachparty:hanging_coconut",
+			"required": false
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+  "blocks": "bloomingnature:tall_sungrass",
+  "offset": 2,
+  "mid": "es_x_letsdo:bloomingnature/snowy/tall_sungrass_top",
+  "flag": 1001,
+  "neoforge:conditions": [
+    {
+      "modid": "bloomingnature",
+      "type": "neoforge:mod_loaded"
+    }
+  ],
+  "forge:conditions": [
+    {
+      "modid": "bloomingnature",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "properties": [
+    {
+      "name": "half",
+      "matcher": {
+        "value": "upper"
+      }
+    }
+  ]
+}

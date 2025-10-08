@@ -1,0 +1,19 @@
+{
+  "blocks": [
+    "vinery:stackable_log"
+  ],
+  "flag": 999,
+  "snow_passable": true,
+  "neoforge:conditions": [
+    {
+      "modid": "vinery",
+      "type": "neoforge:mod_loaded"
+    }
+  ],
+  "forge:conditions": [
+    {
+      "modid": "vinery",
+      "type": "forge:mod_loaded"
+    }
+  ]
+}

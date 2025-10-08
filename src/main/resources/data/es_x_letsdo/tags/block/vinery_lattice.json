@@ -1,0 +1,56 @@
+{
+  "values": [
+    {
+      "id": "vinery:acacia_lattice",
+      "required": false
+    },
+    {
+      "id": "vinery:bamboo_lattice",
+      "required": false
+    },
+    {
+      "id": "vinery:birch_lattice",
+      "required": false
+    },
+    {
+      "id": "vinery:cherry_lattice",
+      "required": false
+    },
+    {
+      "id": "vinery:crimson_lattice",
+      "required": false
+    },
+    {
+      "id": "vinery:dark_oak_lattice",
+      "required": false
+    },
+    {
+      "id": "vinery:jungle_lattice",
+      "required": false
+    },
+    {
+      "id": "vinery:mangrove_lattice",
+      "required": false
+    },
+    {
+      "id": "vinery:oak_lattice",
+      "required": false
+    },
+    {
+      "id": "vinery:spruce_lattice",
+      "required": false
+    },
+    {
+      "id": "vinery:warped_lattice",
+      "required": false
+    },
+    {
+      "id": "nethervinery:warped_lattice",
+      "required": false
+    },
+    {
+      "id": "nethervinery:crimson_lattice",
+      "required": false
+    }
+  ]
+}

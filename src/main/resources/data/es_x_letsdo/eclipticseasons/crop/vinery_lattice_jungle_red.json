@@ -1,0 +1,25 @@
+{
+  "parent": [
+    "eclipticseasons:seasons/spring_summer",
+    "eclipticseasons:humidity/moist_humid"
+  ],
+  "apply_target": {
+    "blocks": "#vinery:lattice",
+    "state": {
+      "grape": "jungle_red"
+    }
+  },
+  "climate": "eclipticseasons:temperate",
+  "neoforge:conditions": [
+    {
+      "modid": "vinery",
+      "type": "neoforge:mod_loaded"
+    }
+  ],
+  "forge:conditions": [
+    {
+      "modid": "vinery",
+      "type": "forge:mod_loaded"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "replace": true,
+  "variants": {
+    "": [
+      {
+        "model": "es_x_letsdo:block/bloomingnature/snowy/sungrass_1"
+      },
+      {
+        "model": "es_x_letsdo:block/bloomingnature/snowy/sungrass_2"
+      },
+      {
+        "model": "es_x_letsdo:block/bloomingnature/snowy/sungrass_3"
+      },
+      {
+        "model": "es_x_letsdo:block/bloomingnature/snowy/sungrass_4"
+      },
+      {
+        "model": "es_x_letsdo:block/bloomingnature/snowy/sungrass_5"
+      }
+    ]
+  },
+  "require": "bloomingnature"
+}

@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "wildernature:minisheep",
+      "required": false
+    },
+    {
+      "id": "wildernature:owl",
+      "required": false
+    }
+  ]
+}

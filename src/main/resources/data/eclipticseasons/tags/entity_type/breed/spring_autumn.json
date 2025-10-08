@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "wildernature:boar",
+      "required": false
+    },
+    {
+      "id": "wildernature:dog",
+      "required": false
+    },
+    {
+      "id": "meadow:water_buffalo",
+      "required": false
+    }
+  ]
+}

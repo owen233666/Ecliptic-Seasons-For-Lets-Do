@@ -1,0 +1,24 @@
+{
+	"values": [
+		{
+			"id": "vinery:jungle_grape_bush_red",
+			"required": false
+		},
+		{
+			"id": "vinery:jungle_grape_bush_white",
+			"required": false
+		},
+		{
+			"id": "beachparty:hanging_coconut",
+			"required": false
+		},
+		{
+			"id": "brewery:hops_crop",
+			"required": false
+		},
+		{
+			"id": "herbalbrews:tea_plant",
+			"required": false
+		}
+	]
+}

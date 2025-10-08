@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "variants": {
+    "": {
+      "model": "es_x_letsdo:block/bloomingnature/snowy/beach_grass"
+    }
+  },
+  "require": "bloomingnature"
+}

@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "meadow:wooly_cow",
+      "required": false
+    },
+    {
+      "id": "meadow:wooly_sheep",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "blocks": "bloomingnature:mossgrass",
+  "offset": 1,
+  "mid": "es_x_letsdo:bloomingnature/snowy/mossgrass",
+  "flag": 1001,
+  "neoforge:conditions": [
+    {
+      "modid": "bloomingnature",
+      "type": "neoforge:mod_loaded"
+    }
+  ],
+  "forge:conditions": [
+    {
+      "modid": "bloomingnature",
+      "type": "forge:mod_loaded"
+    }
+  ]
+}

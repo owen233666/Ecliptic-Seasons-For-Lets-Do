@@ -1,0 +1,14 @@
+{
+  "replace": true,
+  "variants": {
+    "": [
+      {
+        "model": "es_x_letsdo:block/bloomingnature/snowy/tall_sungrass_1_top"
+      },
+      {
+        "model": "es_x_letsdo:block/bloomingnature/snowy/tall_sungrass_2_top"
+      }
+    ]
+  },
+  "require": "bloomingnature"
+}

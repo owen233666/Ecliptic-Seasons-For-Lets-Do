@@ -1,0 +1,24 @@
+{
+	"values": [
+		{
+			"id": "farm_and_charm:carrot_crop",
+			"required": false
+		},
+		{
+			"id": "farm_and_charm:oat_crop",
+			"required": false
+		},
+		{
+			"id": "vinery:red_grape_bush",
+			"required": false
+		},
+		{
+			"id": "vinery:white_grape_bush",
+			"required": false
+		},
+		{
+			"id": "vinery:apple_leaves",
+			"required": false
+		}
+	]
+}

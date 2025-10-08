@@ -1,0 +1,28 @@
+{
+	"values": [
+		{
+			"id": "vinery:savanna_grape_bush_white",
+			"required": false
+		},
+		{
+			"id": "vinery:savanna_grape_bush_red",
+			"required": false
+		},
+		{
+			"id": "farm_and_charm:oat_crop",
+			"required": false
+		},
+		{
+			"id": "farm_and_charm:barley_crop",
+			"required": false
+		},
+		{
+			"id": "nethervinery:obsidian_stem",
+			"required": false
+		},
+		{
+			"id": "meadow:mountain_lavender",
+			"required": false
+		}
+	]
+}

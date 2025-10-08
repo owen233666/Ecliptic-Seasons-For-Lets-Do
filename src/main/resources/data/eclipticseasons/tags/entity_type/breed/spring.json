@@ -1,0 +1,19 @@
+{
+  "values": [
+    {
+      "id": "wildernature:deer",
+      "required": false
+    },
+    {
+      "id": "wildernature:raccoon",
+      "required": false
+    },
+    {
+      "id": "wildernature:turkey",
+      "required": false
+    },    {
+      "id": "wildernature:hedgehog",
+      "required": false
+    }
+  ]
+}

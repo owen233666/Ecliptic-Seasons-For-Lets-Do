@@ -1,0 +1,56 @@
+{
+	"values": [
+		{
+			"id": "wildernature:hazelnut_bush",
+			"required": false
+		},
+		{
+			"id": "farm_and_charm:corn_crop",
+			"required": false
+		},
+		{
+			"id": "vinery:taiga_grape_bush_white",
+			"required": false
+		},
+		{
+			"id": "vinery:taiga_grape_bush_red",
+			"required": false
+		},
+		{
+			"id": "farm_and_charm:lettuce_crop",
+			"required": false
+		},
+		{
+			"id": "farm_and_charm:tomato_crop",
+			"required": false
+		},
+		{
+			"id": "farm_and_charm:strawberry_crop",
+			"required": false
+		},
+		{
+			"id": "farm_and_charm:tomato_crop_body",
+			"required": false
+		},
+		{
+			"id": "vinery:red_grape_bush",
+			"required": false
+		},
+		{
+			"id": "vinery:white_grape_bush",
+			"required": false
+		},
+		{
+			"id": "vinery:apple_leaves",
+			"required": false
+		},
+		{
+			"id": "vinery:dark_cherry_leaves",
+			"required": false
+		},
+		{
+			"id": "herbalbrews:coffee_plant",
+			"required": false
+		}
+	]
+}

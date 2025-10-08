@@ -1,0 +1,17 @@
+{
+  "replace": true,
+  "variants": {
+    "": [
+      {
+        "model": "es_x_letsdo:block/bloomingnature/snowy/mossgrass_1"
+      },
+      {
+        "model": "es_x_letsdo:block/bloomingnature/snowy/mossgrass_2"
+      },
+      {
+        "model": "es_x_letsdo:block/bloomingnature/snowy/mossgrass_3"
+      }
+    ]
+  },
+  "require": "bloomingnature"
+}
