@@ -1,5 +1,7 @@
 {
-  "blocks": "bloomingnature:mossgrass",
+  "blocks": [
+    "bloomingnature:mossgrass"
+  ],
   "offset": 1,
   "mid": "es_x_letsdo:bloomingnature/snowy/mossgrass",
   "flag": 1001,

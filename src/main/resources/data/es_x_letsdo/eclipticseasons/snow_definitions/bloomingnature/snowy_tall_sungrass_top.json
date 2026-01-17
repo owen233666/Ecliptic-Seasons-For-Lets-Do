@@ -1,5 +1,7 @@
 {
-  "blocks": "bloomingnature:tall_sungrass",
+  "blocks": [
+    "bloomingnature:tall_sungrass"
+  ],
   "offset": 2,
   "mid": "es_x_letsdo:bloomingnature/snowy/tall_sungrass_top",
   "flag": 1001,
